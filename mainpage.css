@@ -1,0 +1,48 @@
+
+/* Skill cutz main page css file */
+
+*{
+  border:1px solid rgba(0, 0, 0, 0.3);
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+#container {
+  display: inline-block;
+  position: relative;
+  background-color: yellow;
+  width: 100%;
+  height: auto;
+}
+
+.container2 {
+  width: auto;
+  height: auto;
+  float: left;
+}
+p {
+  height: auto;
+  width: 350px;
+  padding: none;
+  text-align: center;
+}
+
+h3 {
+  height: auto;
+  width: 450px;
+  text-align: center;
+}
+
+ul {
+  height: auto;
+  width: 356px;
+  text-align: center;
+}
+
+footer {
+  position: relative;
+  clear: both;
+}
