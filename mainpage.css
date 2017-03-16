@@ -23,11 +23,28 @@ h1 {
   height: auto;
 }
 
+.container1 {
+  width: auto;
+  height: auto;
+  float: left;
+  margin: 25px;
+}
+
 .container2 {
   width: auto;
   height: auto;
   float: left;
+  margin-top: 25px;
+
 }
+
+.container3 {
+  width: auto;
+  height: auto;
+  float: left;
+  margin: 25px;
+}
+
 p {
   height: auto;
   width: 350px;
@@ -36,7 +53,7 @@ p {
 }
 
 h3 {
-  height: auto;
+  height: 500px;
   width: 450px;
   text-align: center;
 }
@@ -45,25 +62,34 @@ ul {
   height: auto;
   text-align: center;
   list-style-type: none;
-  margin: 0;
   padding: 0;
-  width: 250px;
+  width: auto;
 }
 
-
+li {
+  height: 30px;
+  display: block;
+  width: 300px;
+  background-color: grey;
+  color: white;
+  border: none;
+}
 
 li a {
     display: block;
+    width: 250px;
+    background-color: grey;
 }
 
 /* Dropdown Button */
 .dropbtn {
-    background-color: #4CAF50;
+    width: 298px;
+    height: 30px;
+    background-color: grey;
     color: white;
-    /*padding: 12px;
-    font-size: 12px;*/
+    font-weight: bold;
     border: none;
-    cursor: pointer;
+    /*cursor: pointer;*/
 }
 
 /* The container <div> - needed to position the dropdown content */
