@@ -11,8 +11,15 @@ body {
   padding: 0;
 }
 
-h1 {
+#header h1 {
+  width: 65%;
   text-align: center;
+  margin-left: 250px;
+}
+#header p {
+  position: relative;
+  left: 900px;
+  bottom: 61px;
 }
 
 #container {
