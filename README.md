@@ -16,3 +16,7 @@ Edited the alignment of the video, story, and nav divs. Still need to make some 
 Added templates for galleries, embedded youtube video, implemented button dropdown.
 
 -3/14/17 -rr
+
+Reposition contact info, figured out email address, reposition skill cutz logo.
+
+-3/15/17
