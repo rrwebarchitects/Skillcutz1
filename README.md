@@ -17,6 +17,6 @@ Added templates for galleries, embedded youtube video, implemented button dropdo
 
 -3/14/17 -rr
 
-Reposition contact info, figured out email address, reposition skill cutz logo.
+Reposition contact info, figured out email address, reposition skill cutz logo, and confirmed emails with Leane.
 
 -3/15/17
