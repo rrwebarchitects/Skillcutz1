@@ -19,4 +19,8 @@ Added templates for galleries, embedded youtube video, implemented button dropdo
 
 Reposition contact info, figured out email address, reposition skill cutz logo, and confirmed emails with Leane.
 
--3/15/17
+-3/15/17 -rr
+
+I think I figured out the screen sizing problem, but will have to check on your computer to see if it works.
+
+-3/17/17
