@@ -24,3 +24,7 @@ Reposition contact info, figured out email address, reposition skill cutz logo, 
 I think I figured out the screen sizing problem, but will have to check on your computer to see if it works.
 
 -3/17/17 -ryan
+
+Edited the screen size problem. I think I figured it out. I did the code on my tv, and now will load it on my laptop to see if everything is still showing up right.
+
+-3/17/17
