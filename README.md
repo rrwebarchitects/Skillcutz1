@@ -23,4 +23,4 @@ Reposition contact info, figured out email address, reposition skill cutz logo, 
 
 I think I figured out the screen sizing problem, but will have to check on your computer to see if it works.
 
--3/17/17
+-3/17/17 -ryan
