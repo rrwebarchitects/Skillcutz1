@@ -9,97 +9,64 @@
 body {
   margin: 0;
   padding: 0;
+  height: auto;
 }
 
-#body {
-  width: 100%;
-}
-
-#header {
+/*#header {
   height: 125px;
 }
 
 #header h1 {
-  width: 65%;
+  width: 50%;
   text-align: center;
-  margin-left: 250px;
+  margin: auto;
 }
 #header p {
   position: relative;
   left: 900px;
   bottom: 61px;
-}
+}*/
 
-#container {
+/*#container {
   display: inline-block;
   position: relative;
   background-color: yellow;
   width: 100%;
   height: auto;
-}
+}*/
 
 .container1 {
-  width: auto;
-  height: auto;
-  float: left;
-  margin: 25px;
+  height: 575px;
 }
 
 .container2 {
-  width: auto;
-  height: auto;
-  float: left;
-  margin-top: 25px;
-  padding: 25px;
-
-}
-
-.container3 {
-  width: auto;
-  height: auto;
-  float: left;
-  margin: 25px;
-}
-
-p {
-  height: auto;
-  width: 350px;
-  padding: none;
-  text-align: center;
+  color: white;
+  height: 575px;
 }
 
 h3 {
-  height: 500px;
-  width: 450px;
   text-align: center;
 }
 
 ul {
-  height: auto;
-  text-align: center;
-  list-style-type: none;
-  padding: 0;
-  width: auto;
+
 }
 
 li {
-  height: 30px;
+  /*height: 30px;
+  width: 325px;
   display: block;
-  width: 300px;
   background-color: grey;
-  color: white;
-  border: none;
+  color: white;*/
 }
 
 li a {
-    display: block;
-    width: 250px;
-    background-color: grey;
+    /*display: block;
+    background-color: grey;*/
 }
 
 /* Dropdown Button */
 .dropbtn {
-    width: 298px;
     height: 30px;
     background-color: grey;
     color: white;
@@ -146,5 +113,5 @@ li a {
 
 footer {
   position: relative;
-  clear: both;
+
 }
